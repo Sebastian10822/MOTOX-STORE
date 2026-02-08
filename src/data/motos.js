@@ -5,7 +5,7 @@ export const motos = [
     modelo: "Duke 200",
     precio: "$12.500.000",
     cilindrada: "200cc",
-    imagen: "public/images/Motos/duke.jpg"
+    imagen: "/images/Motos/duke.jpg"
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const motos = [
     modelo: "Raider 125",
     precio: "$8.900.000",
     cilindrada: "125cc",
-    imagen: "public/images/Motos/raider.jpg"
+    imagen: "/images/Motos/raider.jpg"
   },
   {
     id: 3,
@@ -21,6 +21,6 @@ export const motos = [
     modelo: "Hunk 125k",
     precio: "$9.800.000",
     cilindrada: "125cc",
-    imagen: "public/images/Motos/hunk.jpg"
+    imagen: "/images/Motos/hunk.jpg"
   }
 ]

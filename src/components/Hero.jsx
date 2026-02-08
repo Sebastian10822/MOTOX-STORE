@@ -2,7 +2,7 @@ function Hero() {
   return (
     <section className="hero">
       <video autoPlay muted loop className="hero-video">
-        <source src="public/Videos/hero-moto.mp4" type="video/mp4" />
+        <source src="/Videos/hero-moto.mp4" type="video/mp4" />
       </video>
 
       <div className="hero-overlay"></div>
